@@ -1,0 +1,26 @@
+body {
+  background-color: #99d1ec;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 50px;
+  color: #7c2085;
+  text-align: center;
+}
+
+p{
+  font-family: 'Permanent Marker';
+  font-size: 20px;
+  color: rgb(223, 95, 10);
+}
+
+.navbar {
+  text-align: center;
+  font-family: monospace;
+  background: #e4cca4;
+  margin: 30px;
+  border: 2px dotted black;
+  padding: 5px;
+}
+
